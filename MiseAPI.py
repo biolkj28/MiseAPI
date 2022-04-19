@@ -3,7 +3,7 @@ from pyproj import Transformer
 
 import service_key
 
-service_key = service_key.ServiceKey.weather_key
+service_key = service_key.ServiceKey.mise_key
 
 
 # 위도, 경도 >>> TM 좌표, 리턴 값(도,근처 측정소)
